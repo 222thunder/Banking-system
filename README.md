@@ -43,7 +43,7 @@ This **Banking System Project** is a console-based application designed to simul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/banking-system.git
+   git clone https://github.com/222thunder/banking-system.git
    cd banking-system
    ```
 
